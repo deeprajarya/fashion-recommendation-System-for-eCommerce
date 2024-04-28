@@ -1,0 +1,8 @@
+#tensorflow
+tensorflow-gpu==2.5.0
+
+tqdm
+pillow
+numpy
+scikit-learn
+streamlit
