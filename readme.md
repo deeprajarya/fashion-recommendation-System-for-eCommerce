@@ -37,8 +37,8 @@ git clone https://github.com/your_username/fashion-recommender.git
 3. Contribution
 Contributions are welcome! Feel free to submit issues or pull requests.
 
-4. Author
+## Author
 Deepraj Arya
 
-License
+## License
 This project is licensed under the MIT License.
